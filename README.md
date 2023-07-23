@@ -1,6 +1,6 @@
 ### Hello! My name is Magomed! 
 
-I'm a frontend developer from Grozny.
+I'm a frontend developer.
 ---
 ### Languages and Tools:
 
