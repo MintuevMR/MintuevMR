@@ -2,7 +2,7 @@
 
 Я фронтенд-разработчик.
 
-## Связь со вы можете по ссылке: 
+## Связаться со мной вы можете по ссылке: 
 [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/mintuev)
 ---
 ### Языки и инструменты, которыми я пользуюсь:
